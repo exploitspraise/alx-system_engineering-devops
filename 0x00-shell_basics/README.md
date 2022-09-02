@@ -12,3 +12,4 @@ script 10 for going to previous directory
 script 11 for listing all files including hidden ones in current dir and parent of working dir and boot dir in long format
 script 12 for printing file iamafile
 script 13 for creating symbolic link
+script 14 for copying html files
