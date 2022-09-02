@@ -9,3 +9,4 @@ script 7 for moving file betty to /tmp/my first directory
 script 8 for deleting the file /tmp/my first directory/betty
 script 9 for deleting my first directory
 script 10 for going to previous directory
+script 11 for listing all files including hidden ones in current dir and parent of working dir and boot dir in long format
