@@ -7,3 +7,4 @@ script 5 for listing file digits
 script 6 for creating directory named my first directory in tmp
 script 7 for moving file betty to /tmp/my first directory
 script 8 for deleting the file /tmp/my first directory/betty
+script 9 for deleting my first directory
