@@ -8,3 +8,4 @@ script 6 adds multiple execution permission to user and group
 script 7 grants everyone execution permission
 script 8 grants permission to only other users
 script 9 altering permission
+script 10 for mirror permission
