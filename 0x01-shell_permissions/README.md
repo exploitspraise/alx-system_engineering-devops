@@ -7,3 +7,4 @@ script 5 adds execute permission to owner of the file betty
 script 6 adds multiple execution permission to user and group
 script 7 grants everyone execution permission
 script 8 grants permission to only other users
+script 9 altering permission
