@@ -5,3 +5,4 @@ script 3 changes file owner of hello to betty
 script 4 creates an empty file called hello
 script 5 adds execute permission to owner of the file betty
 script 6 adds multiple execution permission to user and group
+script 7 grants everyone execution permission
