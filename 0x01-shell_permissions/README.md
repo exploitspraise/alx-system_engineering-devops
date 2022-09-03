@@ -9,4 +9,5 @@ script 7 grants everyone execution permission
 script 8 grants permission to only other users
 script 9 altering permission
 script 10 for mirror permission
-script 11 more permission
+script 11 for sub directory permission
+script 12 for mor permission stuff
