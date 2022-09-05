@@ -8,3 +8,4 @@ script 6 to 3rd line in iacta
 script 7 for creating file named Best School with file inside
 script 8 for redirecting display
 script 9 for duplicating last line of iacta
+script 10 for deleting all regular files
