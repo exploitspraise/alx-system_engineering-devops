@@ -16,3 +16,4 @@ script 14 for Displaying lines containing the pattern “root” from the file /
 script 15 to the number of lines that contain the pattern “bin” in the file /etc/passwd
 script 16 to Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 script 17 to Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+script 18 to Display all lines of the file /etc/ssh/sshd config starting with a letter
