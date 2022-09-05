@@ -10,3 +10,4 @@ script 8 for redirecting display
 script 9 for duplicating last line of iacta
 script 10 for deleting all regular files
 script 11 for counting number of directories
+script 12 for 10 newest files in current dir
