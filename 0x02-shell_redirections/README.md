@@ -6,3 +6,4 @@ script 4 to display last 10 lines of /etc/passwd
 script 5 to display first 10 line of /etc/passwd
 script 6 to 3rd line in iacta
 script 7 for creating file named Best School with file inside
+script 8 for redirecting display
