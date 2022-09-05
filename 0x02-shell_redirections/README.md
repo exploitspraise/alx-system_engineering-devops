@@ -13,3 +13,4 @@ script 11 for counting number of directories
 script 12 for 10 newest files in current dir
 script 13 for uniq file
 script 14 for Displaying lines containing the pattern “root” from the file /etc/passwd
+script 15 to the number of lines that contain the pattern “bin” in the file /etc/passwd
